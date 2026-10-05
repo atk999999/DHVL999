@@ -3705,5 +3705,11 @@ var $plugins = [
     "status": true,
     "description": "Tám NPC tương tác trong tuyến tu tiên",
     "parameters": {}
+  },
+  {
+    "name": "Web_TalentBuff",
+    "status": true,
+    "description": "Tăng cường chỉ số chiến đấu cho Thiên Phú (HP, MP, ATK)",
+    "parameters": {}
   }
 ];

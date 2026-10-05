@@ -1,0 +1,8 @@
+{
+  "name": "Đại Hiệp Xin Hãy Quay Lại",
+  "description": "Chơi Đại Hiệp Xin Hãy Quay Lại phiên bản tiếng Việt ngay trên trình duyệt.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
