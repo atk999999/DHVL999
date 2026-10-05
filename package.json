@@ -1,0 +1,11 @@
+{
+  "name": "dai-hiep-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.cjs",
+    "start": "node server.cjs",
+    "build": "node validate.cjs",
+    "test": "node tests/ancient-equipment-regression.cjs && node tests/immortal-npc-regression.cjs && node tests/combat-regression.cjs && node tests/age-recovery-regression.cjs"
+  }
+}

@@ -1,0 +1,3 @@
+Dựng và chạy đúng game trong gói này. Đọc README_AI_STUDIO_VI.md. Không tạo game khác, không thay engine, không vẽ lại giao diện, không bỏ dữ liệu/tài nguyên.
+Chạy npm run dev tại package.json, cổng3000. npm run build chỉ xác thực web tĩnh sẵn trong dist/. Giữ biến toàn cục, thứ tự plugin, đường dẫn ảnh/JSON/âm thanh; không SPA fallback cho tài nguyên thiếu. Nếu bắt buộc React/Vite, chỉ tạo lớp vỏ iframe và phục vụ nguyên vẹn thư mục game.
+Giữ bản vá Cổ Thần, chiến đấu, Việt hóa, tu tiên sau120 và8 NPC. Chạy npm test; kiểm tra loading, bắt đầu đời, mua/mặc/tháo Cổ Thần, tải bản lưu và chuyển tuổi120. Sửa lỗi tích hợp trước khi báo hoàn thành. Không xóa tài nguyên để giảm dung lượng.

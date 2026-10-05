@@ -1,0 +1,1350 @@
+[
+  {
+    "id": 152,
+    "tier": 1,
+    "name": "Tiếng lành",
+    "description": "[ Danh vọng +2 ]",
+    "effects": {
+      "21": 2
+    }
+  },
+  {
+    "id": 153,
+    "tier": 1,
+    "name": "Chăm đọc sách",
+    "description": "[ Học thức +2 ]",
+    "effects": {
+      "22": 2
+    }
+  },
+  {
+    "id": 154,
+    "tier": 1,
+    "name": "Dung mạo thanh tú",
+    "description": "[ Nhan sắc +2 ]",
+    "effects": {
+      "23": 2
+    }
+  },
+  {
+    "id": 155,
+    "tier": 1,
+    "name": "Lòng ngay dạ thẳng",
+    "description": "[ Thiện ác +2 ]",
+    "effects": {
+      "24": 2
+    }
+  },
+  {
+    "id": 156,
+    "tier": 1,
+    "name": "Đôi tay rắn rỏi",
+    "description": "[ Lực tay +2 ]",
+    "effects": {
+      "25": 2
+    }
+  },
+  {
+    "id": 157,
+    "tier": 1,
+    "name": "Sức bền dẻo dai",
+    "description": "[ Thể chất +2 ]",
+    "effects": {
+      "26": 2
+    }
+  },
+  {
+    "id": 158,
+    "tier": 1,
+    "name": "Duyên lành đưa lối",
+    "description": "[ Vận khí +2 ]",
+    "effects": {
+      "27": 2
+    }
+  },
+  {
+    "id": 159,
+    "tier": 1,
+    "name": "Sáng dạ",
+    "description": "[ Ngộ tính +2 ]",
+    "effects": {
+      "28": 2
+    }
+  },
+  {
+    "id": 160,
+    "tier": 1,
+    "name": "Học trò ưu tú",
+    "description": "[ Danh vọng +1; Học thức +1 ]",
+    "effects": {
+      "21": 1,
+      "22": 1
+    }
+  },
+  {
+    "id": 161,
+    "tier": 1,
+    "name": "Phong thái nhã nhặn",
+    "description": "[ Danh vọng +1; Nhan sắc +1 ]",
+    "effects": {
+      "21": 1,
+      "23": 1
+    }
+  },
+  {
+    "id": 162,
+    "tier": 1,
+    "name": "Giữ lời hứa",
+    "description": "[ Danh vọng +1; Thiện ác +1 ]",
+    "effects": {
+      "21": 1,
+      "24": 1
+    }
+  },
+  {
+    "id": 163,
+    "tier": 1,
+    "name": "Hộ vệ xóm làng",
+    "description": "[ Danh vọng +1; Lực tay +1 ]",
+    "effects": {
+      "21": 1,
+      "25": 1
+    }
+  },
+  {
+    "id": 164,
+    "tier": 1,
+    "name": "Trụ cột gia đình",
+    "description": "[ Danh vọng +1; Thể chất +1 ]",
+    "effects": {
+      "21": 1,
+      "26": 1
+    }
+  },
+  {
+    "id": 165,
+    "tier": 1,
+    "name": "Gặp người nâng đỡ",
+    "description": "[ Danh vọng +1; Vận khí +1 ]",
+    "effects": {
+      "21": 1,
+      "27": 1
+    }
+  },
+  {
+    "id": 166,
+    "tier": 1,
+    "name": "Biết nghe biết hiểu",
+    "description": "[ Danh vọng +1; Ngộ tính +1 ]",
+    "effects": {
+      "21": 1,
+      "28": 1
+    }
+  },
+  {
+    "id": 167,
+    "tier": 1,
+    "name": "Nét đẹp thư sinh",
+    "description": "[ Học thức +1; Nhan sắc +1 ]",
+    "effects": {
+      "22": 1,
+      "23": 1
+    }
+  },
+  {
+    "id": 168,
+    "tier": 1,
+    "name": "Học lễ từ nhỏ",
+    "description": "[ Học thức +1; Thiện ác +1 ]",
+    "effects": {
+      "22": 1,
+      "24": 1
+    }
+  },
+  {
+    "id": 169,
+    "tier": 1,
+    "name": "Vừa học vừa luyện",
+    "description": "[ Học thức +1; Lực tay +1 ]",
+    "effects": {
+      "22": 1,
+      "25": 1
+    }
+  },
+  {
+    "id": 170,
+    "tier": 1,
+    "name": "Đọc sách dưỡng thân",
+    "description": "[ Học thức +1; Thể chất +1 ]",
+    "effects": {
+      "22": 1,
+      "26": 1
+    }
+  },
+  {
+    "id": 171,
+    "tier": 1,
+    "name": "Thi cử thuận lợi",
+    "description": "[ Học thức +1; Vận khí +1 ]",
+    "effects": {
+      "22": 1,
+      "27": 1
+    }
+  },
+  {
+    "id": 172,
+    "tier": 1,
+    "name": "Ham tìm hiểu",
+    "description": "[ Học thức +1; Ngộ tính +1 ]",
+    "effects": {
+      "22": 1,
+      "28": 1
+    }
+  },
+  {
+    "id": 173,
+    "tier": 1,
+    "name": "Nụ cười hiền hậu",
+    "description": "[ Nhan sắc +1; Thiện ác +1 ]",
+    "effects": {
+      "23": 1,
+      "24": 1
+    }
+  },
+  {
+    "id": 174,
+    "tier": 1,
+    "name": "Dáng vẻ oai phong",
+    "description": "[ Nhan sắc +1; Lực tay +1 ]",
+    "effects": {
+      "23": 1,
+      "25": 1
+    }
+  },
+  {
+    "id": 175,
+    "tier": 1,
+    "name": "Sắc mặt hồng hào",
+    "description": "[ Nhan sắc +1; Thể chất +1 ]",
+    "effects": {
+      "23": 1,
+      "26": 1
+    }
+  },
+  {
+    "id": 176,
+    "tier": 1,
+    "name": "Gương mặt có duyên",
+    "description": "[ Nhan sắc +1; Vận khí +1 ]",
+    "effects": {
+      "23": 1,
+      "27": 1
+    }
+  },
+  {
+    "id": 177,
+    "tier": 1,
+    "name": "Mắt sáng tinh anh",
+    "description": "[ Nhan sắc +1; Ngộ tính +1 ]",
+    "effects": {
+      "23": 1,
+      "28": 1
+    }
+  },
+  {
+    "id": 178,
+    "tier": 1,
+    "name": "Ra tay giúp người",
+    "description": "[ Thiện ác +1; Lực tay +1 ]",
+    "effects": {
+      "24": 1,
+      "25": 1
+    }
+  },
+  {
+    "id": 179,
+    "tier": 1,
+    "name": "Sống lành mạnh",
+    "description": "[ Thiện ác +1; Thể chất +1 ]",
+    "effects": {
+      "24": 1,
+      "26": 1
+    }
+  },
+  {
+    "id": 180,
+    "tier": 1,
+    "name": "Hay làm việc tốt",
+    "description": "[ Thiện ác +1; Vận khí +1 ]",
+    "effects": {
+      "24": 1,
+      "27": 1
+    }
+  },
+  {
+    "id": 181,
+    "tier": 1,
+    "name": "Biết nghĩ cho người",
+    "description": "[ Thiện ác +1; Ngộ tính +1 ]",
+    "effects": {
+      "24": 1,
+      "28": 1
+    }
+  },
+  {
+    "id": 182,
+    "tier": 1,
+    "name": "Lao động bền bỉ",
+    "description": "[ Lực tay +1; Thể chất +1 ]",
+    "effects": {
+      "25": 1,
+      "26": 1
+    }
+  },
+  {
+    "id": 183,
+    "tier": 1,
+    "name": "Tay làm gặp lộc",
+    "description": "[ Lực tay +1; Vận khí +1 ]",
+    "effects": {
+      "25": 1,
+      "27": 1
+    }
+  },
+  {
+    "id": 184,
+    "tier": 1,
+    "name": "Khéo tay nhanh trí",
+    "description": "[ Lực tay +1; Ngộ tính +1 ]",
+    "effects": {
+      "25": 1,
+      "28": 1
+    }
+  },
+  {
+    "id": 185,
+    "tier": 1,
+    "name": "Ít bệnh ít tai",
+    "description": "[ Thể chất +1; Vận khí +1 ]",
+    "effects": {
+      "26": 1,
+      "27": 1
+    }
+  },
+  {
+    "id": 186,
+    "tier": 1,
+    "name": "Rèn thân luyện trí",
+    "description": "[ Thể chất +1; Ngộ tính +1 ]",
+    "effects": {
+      "26": 1,
+      "28": 1
+    }
+  },
+  {
+    "id": 187,
+    "tier": 1,
+    "name": "Linh cảm tốt",
+    "description": "[ Vận khí +1; Ngộ tính +1 ]",
+    "effects": {
+      "27": 1,
+      "28": 1
+    }
+  },
+  {
+    "id": 246,
+    "tier": 2,
+    "name": "Danh sĩ một phương",
+    "description": "[ Danh vọng +4 ]",
+    "effects": {
+      "21": 4
+    }
+  },
+  {
+    "id": 247,
+    "tier": 2,
+    "name": "Thông hiểu kinh thư",
+    "description": "[ Học thức +4 ]",
+    "effects": {
+      "22": 4
+    }
+  },
+  {
+    "id": 248,
+    "tier": 2,
+    "name": "Phong tư nổi bật",
+    "description": "[ Nhan sắc +4 ]",
+    "effects": {
+      "23": 4
+    }
+  },
+  {
+    "id": 249,
+    "tier": 2,
+    "name": "Tấm lòng nhân hậu",
+    "description": "[ Thiện ác +4 ]",
+    "effects": {
+      "24": 4
+    }
+  },
+  {
+    "id": 250,
+    "tier": 2,
+    "name": "Cánh tay thép",
+    "description": "[ Lực tay +4 ]",
+    "effects": {
+      "25": 4
+    }
+  },
+  {
+    "id": 251,
+    "tier": 2,
+    "name": "Khí huyết dồi dào",
+    "description": "[ Thể chất +4 ]",
+    "effects": {
+      "26": 4
+    }
+  },
+  {
+    "id": 252,
+    "tier": 2,
+    "name": "Phúc vận hanh thông",
+    "description": "[ Vận khí +4 ]",
+    "effects": {
+      "27": 4
+    }
+  },
+  {
+    "id": 253,
+    "tier": 2,
+    "name": "Tư duy nhạy bén",
+    "description": "[ Ngộ tính +4 ]",
+    "effects": {
+      "28": 4
+    }
+  },
+  {
+    "id": 254,
+    "tier": 2,
+    "name": "Nho sinh nổi danh",
+    "description": "[ Danh vọng +2; Học thức +2 ]",
+    "effects": {
+      "21": 2,
+      "22": 2
+    }
+  },
+  {
+    "id": 255,
+    "tier": 2,
+    "name": "Công tử thanh danh",
+    "description": "[ Danh vọng +2; Nhan sắc +2 ]",
+    "effects": {
+      "21": 2,
+      "23": 2
+    }
+  },
+  {
+    "id": 256,
+    "tier": 2,
+    "name": "Hiệp danh nhân nghĩa",
+    "description": "[ Danh vọng +2; Thiện ác +2 ]",
+    "effects": {
+      "21": 2,
+      "24": 2
+    }
+  },
+  {
+    "id": 257,
+    "tier": 2,
+    "name": "Dũng sĩ nổi danh",
+    "description": "[ Danh vọng +2; Lực tay +2 ]",
+    "effects": {
+      "21": 2,
+      "25": 2
+    }
+  },
+  {
+    "id": 258,
+    "tier": 2,
+    "name": "Uy phong tráng kiện",
+    "description": "[ Danh vọng +2; Thể chất +2 ]",
+    "effects": {
+      "21": 2,
+      "26": 2
+    }
+  },
+  {
+    "id": 259,
+    "tier": 2,
+    "name": "Quý nhân phù trợ",
+    "description": "[ Danh vọng +2; Vận khí +2 ]",
+    "effects": {
+      "21": 2,
+      "27": 2
+    }
+  },
+  {
+    "id": 260,
+    "tier": 2,
+    "name": "Minh trí phục chúng",
+    "description": "[ Danh vọng +2; Ngộ tính +2 ]",
+    "effects": {
+      "21": 2,
+      "28": 2
+    }
+  },
+  {
+    "id": 261,
+    "tier": 2,
+    "name": "Tài sắc nổi trội",
+    "description": "[ Học thức +2; Nhan sắc +2 ]",
+    "effects": {
+      "22": 2,
+      "23": 2
+    }
+  },
+  {
+    "id": 262,
+    "tier": 2,
+    "name": "Nho phong chính trực",
+    "description": "[ Học thức +2; Thiện ác +2 ]",
+    "effects": {
+      "22": 2,
+      "24": 2
+    }
+  },
+  {
+    "id": 263,
+    "tier": 2,
+    "name": "Văn võ kiêm tu",
+    "description": "[ Học thức +2; Lực tay +2 ]",
+    "effects": {
+      "22": 2,
+      "25": 2
+    }
+  },
+  {
+    "id": 264,
+    "tier": 2,
+    "name": "Nho sinh cường kiện",
+    "description": "[ Học thức +2; Thể chất +2 ]",
+    "effects": {
+      "22": 2,
+      "26": 2
+    }
+  },
+  {
+    "id": 265,
+    "tier": 2,
+    "name": "Đỗ đạt hanh thông",
+    "description": "[ Học thức +2; Vận khí +2 ]",
+    "effects": {
+      "22": 2,
+      "27": 2
+    }
+  },
+  {
+    "id": 266,
+    "tier": 2,
+    "name": "Suy một hiểu mười",
+    "description": "[ Học thức +2; Ngộ tính +2 ]",
+    "effects": {
+      "22": 2,
+      "28": 2
+    }
+  },
+  {
+    "id": 267,
+    "tier": 2,
+    "name": "Dung nhan đức hạnh",
+    "description": "[ Nhan sắc +2; Thiện ác +2 ]",
+    "effects": {
+      "23": 2,
+      "24": 2
+    }
+  },
+  {
+    "id": 268,
+    "tier": 2,
+    "name": "Tuấn tú dũng mãnh",
+    "description": "[ Nhan sắc +2; Lực tay +2 ]",
+    "effects": {
+      "23": 2,
+      "25": 2
+    }
+  },
+  {
+    "id": 269,
+    "tier": 2,
+    "name": "Dung quang khỏe khoắn",
+    "description": "[ Nhan sắc +2; Thể chất +2 ]",
+    "effects": {
+      "23": 2,
+      "26": 2
+    }
+  },
+  {
+    "id": 270,
+    "tier": 2,
+    "name": "Đào hoa cát vận",
+    "description": "[ Nhan sắc +2; Vận khí +2 ]",
+    "effects": {
+      "23": 2,
+      "27": 2
+    }
+  },
+  {
+    "id": 271,
+    "tier": 2,
+    "name": "Linh tú thông tuệ",
+    "description": "[ Nhan sắc +2; Ngộ tính +2 ]",
+    "effects": {
+      "23": 2,
+      "28": 2
+    }
+  },
+  {
+    "id": 272,
+    "tier": 2,
+    "name": "Trượng nghĩa cường thủ",
+    "description": "[ Thiện ác +2; Lực tay +2 ]",
+    "effects": {
+      "24": 2,
+      "25": 2
+    }
+  },
+  {
+    "id": 273,
+    "tier": 2,
+    "name": "Thiện tâm dưỡng thể",
+    "description": "[ Thiện ác +2; Thể chất +2 ]",
+    "effects": {
+      "24": 2,
+      "26": 2
+    }
+  },
+  {
+    "id": 274,
+    "tier": 2,
+    "name": "Phúc đức song hành",
+    "description": "[ Thiện ác +2; Vận khí +2 ]",
+    "effects": {
+      "24": 2,
+      "27": 2
+    }
+  },
+  {
+    "id": 275,
+    "tier": 2,
+    "name": "Minh tâm hướng thiện",
+    "description": "[ Thiện ác +2; Ngộ tính +2 ]",
+    "effects": {
+      "24": 2,
+      "28": 2
+    }
+  },
+  {
+    "id": 276,
+    "tier": 2,
+    "name": "Gân cốt rắn chắc",
+    "description": "[ Lực tay +2; Thể chất +2 ]",
+    "effects": {
+      "25": 2,
+      "26": 2
+    }
+  },
+  {
+    "id": 277,
+    "tier": 2,
+    "name": "Võ vận hanh thông",
+    "description": "[ Lực tay +2; Vận khí +2 ]",
+    "effects": {
+      "25": 2,
+      "27": 2
+    }
+  },
+  {
+    "id": 278,
+    "tier": 2,
+    "name": "Võ học sáng suốt",
+    "description": "[ Lực tay +2; Ngộ tính +2 ]",
+    "effects": {
+      "25": 2,
+      "28": 2
+    }
+  },
+  {
+    "id": 279,
+    "tier": 2,
+    "name": "Thể kiện phúc lành",
+    "description": "[ Thể chất +2; Vận khí +2 ]",
+    "effects": {
+      "26": 2,
+      "27": 2
+    }
+  },
+  {
+    "id": 280,
+    "tier": 2,
+    "name": "Thân tâm sáng suốt",
+    "description": "[ Thể chất +2; Ngộ tính +2 ]",
+    "effects": {
+      "26": 2,
+      "28": 2
+    }
+  },
+  {
+    "id": 281,
+    "tier": 2,
+    "name": "Tuệ vận tương sinh",
+    "description": "[ Vận khí +2; Ngộ tính +2 ]",
+    "effects": {
+      "27": 2,
+      "28": 2
+    }
+  },
+  {
+    "id": 338,
+    "tier": 3,
+    "name": "Uy danh lẫy lừng",
+    "description": "[ Danh vọng +7 ]",
+    "effects": {
+      "21": 7
+    }
+  },
+  {
+    "id": 339,
+    "tier": 3,
+    "name": "Học giả uyên bác",
+    "description": "[ Học thức +7 ]",
+    "effects": {
+      "22": 7
+    }
+  },
+  {
+    "id": 340,
+    "tier": 3,
+    "name": "Ngọc diện vô song",
+    "description": "[ Nhan sắc +7 ]",
+    "effects": {
+      "23": 7
+    }
+  },
+  {
+    "id": 341,
+    "tier": 3,
+    "name": "Đức hạnh sáng ngời",
+    "description": "[ Thiện ác +7 ]",
+    "effects": {
+      "24": 7
+    }
+  },
+  {
+    "id": 342,
+    "tier": 3,
+    "name": "Lực bạt sơn hà",
+    "description": "[ Lực tay +7 ]",
+    "effects": {
+      "25": 7
+    }
+  },
+  {
+    "id": 343,
+    "tier": 3,
+    "name": "Thân thể tinh cương",
+    "description": "[ Thể chất +7 ]",
+    "effects": {
+      "26": 7
+    }
+  },
+  {
+    "id": 344,
+    "tier": 3,
+    "name": "Hồng phúc tề thiên",
+    "description": "[ Vận khí +7 ]",
+    "effects": {
+      "27": 7
+    }
+  },
+  {
+    "id": 345,
+    "tier": 3,
+    "name": "Tuệ căn sâu dày",
+    "description": "[ Ngộ tính +7 ]",
+    "effects": {
+      "28": 7
+    }
+  },
+  {
+    "id": 346,
+    "tier": 3,
+    "name": "Văn danh thiên hạ",
+    "description": "[ Danh vọng +4; Học thức +3 ]",
+    "effects": {
+      "21": 4,
+      "22": 3
+    }
+  },
+  {
+    "id": 347,
+    "tier": 3,
+    "name": "Phong hoa tuyệt đại",
+    "description": "[ Danh vọng +4; Nhan sắc +3 ]",
+    "effects": {
+      "21": 4,
+      "23": 3
+    }
+  },
+  {
+    "id": 348,
+    "tier": 3,
+    "name": "Nghĩa khí ngút trời",
+    "description": "[ Danh vọng +4; Thiện ác +3 ]",
+    "effects": {
+      "21": 4,
+      "24": 3
+    }
+  },
+  {
+    "id": 349,
+    "tier": 3,
+    "name": "Hào kiệt một thời",
+    "description": "[ Danh vọng +4; Lực tay +3 ]",
+    "effects": {
+      "21": 4,
+      "25": 3
+    }
+  },
+  {
+    "id": 350,
+    "tier": 3,
+    "name": "Hùng phong bất khuất",
+    "description": "[ Danh vọng +4; Thể chất +3 ]",
+    "effects": {
+      "21": 4,
+      "26": 3
+    }
+  },
+  {
+    "id": 351,
+    "tier": 3,
+    "name": "Danh vận song toàn",
+    "description": "[ Danh vọng +4; Vận khí +3 ]",
+    "effects": {
+      "21": 4,
+      "27": 3
+    }
+  },
+  {
+    "id": 352,
+    "tier": 3,
+    "name": "Tuệ danh lưu thế",
+    "description": "[ Danh vọng +4; Ngộ tính +3 ]",
+    "effects": {
+      "21": 4,
+      "28": 3
+    }
+  },
+  {
+    "id": 353,
+    "tier": 3,
+    "name": "Tài hoa ngọc diện",
+    "description": "[ Học thức +4; Nhan sắc +3 ]",
+    "effects": {
+      "22": 4,
+      "23": 3
+    }
+  },
+  {
+    "id": 354,
+    "tier": 3,
+    "name": "Đức tài song toàn",
+    "description": "[ Học thức +4; Thiện ác +3 ]",
+    "effects": {
+      "22": 4,
+      "24": 3
+    }
+  },
+  {
+    "id": 355,
+    "tier": 3,
+    "name": "Văn thao võ lược",
+    "description": "[ Học thức +4; Lực tay +3 ]",
+    "effects": {
+      "22": 4,
+      "25": 3
+    }
+  },
+  {
+    "id": 356,
+    "tier": 3,
+    "name": "Học rộng thân cường",
+    "description": "[ Học thức +4; Thể chất +3 ]",
+    "effects": {
+      "22": 4,
+      "26": 3
+    }
+  },
+  {
+    "id": 357,
+    "tier": 3,
+    "name": "Khoa bảng cát tường",
+    "description": "[ Học thức +4; Vận khí +3 ]",
+    "effects": {
+      "22": 4,
+      "27": 3
+    }
+  },
+  {
+    "id": 358,
+    "tier": 3,
+    "name": "Bác học tinh thông",
+    "description": "[ Học thức +4; Ngộ tính +3 ]",
+    "effects": {
+      "22": 4,
+      "28": 3
+    }
+  },
+  {
+    "id": 359,
+    "tier": 3,
+    "name": "Ngọc dung thiện tâm",
+    "description": "[ Nhan sắc +4; Thiện ác +3 ]",
+    "effects": {
+      "23": 4,
+      "24": 3
+    }
+  },
+  {
+    "id": 360,
+    "tier": 3,
+    "name": "Anh tư trác tuyệt",
+    "description": "[ Nhan sắc +4; Lực tay +3 ]",
+    "effects": {
+      "23": 4,
+      "25": 3
+    }
+  },
+  {
+    "id": 361,
+    "tier": 3,
+    "name": "Ngọc cốt băng cơ",
+    "description": "[ Nhan sắc +4; Thể chất +3 ]",
+    "effects": {
+      "23": 4,
+      "26": 3
+    }
+  },
+  {
+    "id": 362,
+    "tier": 3,
+    "name": "Phúc sắc vẹn toàn",
+    "description": "[ Nhan sắc +4; Vận khí +3 ]",
+    "effects": {
+      "23": 4,
+      "27": 3
+    }
+  },
+  {
+    "id": 363,
+    "tier": 3,
+    "name": "Tuệ nhãn ngọc dung",
+    "description": "[ Nhan sắc +4; Ngộ tính +3 ]",
+    "effects": {
+      "23": 4,
+      "28": 3
+    }
+  },
+  {
+    "id": 364,
+    "tier": 3,
+    "name": "Nghĩa dũng song toàn",
+    "description": "[ Thiện ác +4; Lực tay +3 ]",
+    "effects": {
+      "24": 4,
+      "25": 3
+    }
+  },
+  {
+    "id": 365,
+    "tier": 3,
+    "name": "Đức dày thân vững",
+    "description": "[ Thiện ác +4; Thể chất +3 ]",
+    "effects": {
+      "24": 4,
+      "26": 3
+    }
+  },
+  {
+    "id": 366,
+    "tier": 3,
+    "name": "Thiện duyên viên mãn",
+    "description": "[ Thiện ác +4; Vận khí +3 ]",
+    "effects": {
+      "24": 4,
+      "27": 3
+    }
+  },
+  {
+    "id": 367,
+    "tier": 3,
+    "name": "Tuệ đức viên dung",
+    "description": "[ Thiện ác +4; Ngộ tính +3 ]",
+    "effects": {
+      "24": 4,
+      "28": 3
+    }
+  },
+  {
+    "id": 368,
+    "tier": 3,
+    "name": "Cương cân thiết cốt",
+    "description": "[ Lực tay +4; Thể chất +3 ]",
+    "effects": {
+      "25": 4,
+      "26": 3
+    }
+  },
+  {
+    "id": 369,
+    "tier": 3,
+    "name": "Dũng lực thừa phúc",
+    "description": "[ Lực tay +4; Vận khí +3 ]",
+    "effects": {
+      "25": 4,
+      "27": 3
+    }
+  },
+  {
+    "id": 370,
+    "tier": 3,
+    "name": "Lực trí hợp nhất",
+    "description": "[ Lực tay +4; Ngộ tính +3 ]",
+    "effects": {
+      "25": 4,
+      "28": 3
+    }
+  },
+  {
+    "id": 371,
+    "tier": 3,
+    "name": "Phúc thọ an khang",
+    "description": "[ Thể chất +4; Vận khí +3 ]",
+    "effects": {
+      "26": 4,
+      "27": 3
+    }
+  },
+  {
+    "id": 372,
+    "tier": 3,
+    "name": "Tinh khí thông linh",
+    "description": "[ Thể chất +4; Ngộ tính +3 ]",
+    "effects": {
+      "26": 4,
+      "28": 3
+    }
+  },
+  {
+    "id": 373,
+    "tier": 3,
+    "name": "Linh cơ đắc vận",
+    "description": "[ Vận khí +4; Ngộ tính +3 ]",
+    "effects": {
+      "27": 4,
+      "28": 3
+    }
+  },
+  {
+    "id": 430,
+    "tier": 4,
+    "name": "Vạn dân kính ngưỡng",
+    "description": "[ Danh vọng +11 ]",
+    "effects": {
+      "21": 11
+    }
+  },
+  {
+    "id": 431,
+    "tier": 4,
+    "name": "Văn tinh chiếu mệnh",
+    "description": "[ Học thức +11 ]",
+    "effects": {
+      "22": 11
+    }
+  },
+  {
+    "id": 432,
+    "tier": 4,
+    "name": "Tuyệt sắc trần gian",
+    "description": "[ Nhan sắc +11 ]",
+    "effects": {
+      "23": 11
+    }
+  },
+  {
+    "id": 433,
+    "tier": 4,
+    "name": "Thánh tâm phổ độ",
+    "description": "[ Thiện ác +11 ]",
+    "effects": {
+      "24": 11
+    }
+  },
+  {
+    "id": 434,
+    "tier": 4,
+    "name": "Thần quyền trấn thế",
+    "description": "[ Lực tay +11 ]",
+    "effects": {
+      "25": 11
+    }
+  },
+  {
+    "id": 435,
+    "tier": 4,
+    "name": "Bất hoại chân thân",
+    "description": "[ Thể chất +11 ]",
+    "effects": {
+      "26": 11
+    }
+  },
+  {
+    "id": 436,
+    "tier": 4,
+    "name": "Thiên vận gia thân",
+    "description": "[ Vận khí +11 ]",
+    "effects": {
+      "27": 11
+    }
+  },
+  {
+    "id": 437,
+    "tier": 4,
+    "name": "Đại đạo minh tâm",
+    "description": "[ Ngộ tính +11 ]",
+    "effects": {
+      "28": 11
+    }
+  },
+  {
+    "id": 438,
+    "tier": 4,
+    "name": "Văn thánh truyền nhân",
+    "description": "[ Danh vọng +6; Học thức +5 ]",
+    "effects": {
+      "21": 6,
+      "22": 5
+    }
+  },
+  {
+    "id": 439,
+    "tier": 4,
+    "name": "Ngọc quân lâm thế",
+    "description": "[ Danh vọng +6; Nhan sắc +5 ]",
+    "effects": {
+      "21": 6,
+      "23": 5
+    }
+  },
+  {
+    "id": 440,
+    "tier": 4,
+    "name": "Nhân nghĩa trấn giang hồ",
+    "description": "[ Danh vọng +6; Thiện ác +5 ]",
+    "effects": {
+      "21": 6,
+      "24": 5
+    }
+  },
+  {
+    "id": 441,
+    "tier": 4,
+    "name": "Chiến thần hiển thế",
+    "description": "[ Danh vọng +6; Lực tay +5 ]",
+    "effects": {
+      "21": 6,
+      "25": 5
+    }
+  },
+  {
+    "id": 442,
+    "tier": 4,
+    "name": "Trấn quốc hùng tài",
+    "description": "[ Danh vọng +6; Thể chất +5 ]",
+    "effects": {
+      "21": 6,
+      "26": 5
+    }
+  },
+  {
+    "id": 443,
+    "tier": 4,
+    "name": "Thiên quyến minh chủ",
+    "description": "[ Danh vọng +6; Vận khí +5 ]",
+    "effects": {
+      "21": 6,
+      "27": 5
+    }
+  },
+  {
+    "id": 444,
+    "tier": 4,
+    "name": "Thánh triết dẫn đường",
+    "description": "[ Danh vọng +6; Ngộ tính +5 ]",
+    "effects": {
+      "21": 6,
+      "28": 5
+    }
+  },
+  {
+    "id": 445,
+    "tier": 4,
+    "name": "Tài sắc khuynh thế",
+    "description": "[ Học thức +6; Nhan sắc +5 ]",
+    "effects": {
+      "22": 6,
+      "23": 5
+    }
+  },
+  {
+    "id": 446,
+    "tier": 4,
+    "name": "Thánh hiền tái thế",
+    "description": "[ Học thức +6; Thiện ác +5 ]",
+    "effects": {
+      "22": 6,
+      "24": 5
+    }
+  },
+  {
+    "id": 447,
+    "tier": 4,
+    "name": "Kinh luân định quốc",
+    "description": "[ Học thức +6; Lực tay +5 ]",
+    "effects": {
+      "22": 6,
+      "25": 5
+    }
+  },
+  {
+    "id": 448,
+    "tier": 4,
+    "name": "Văn mạch trường tồn",
+    "description": "[ Học thức +6; Thể chất +5 ]",
+    "effects": {
+      "22": 6,
+      "26": 5
+    }
+  },
+  {
+    "id": 449,
+    "tier": 4,
+    "name": "Văn vận thiên ban",
+    "description": "[ Học thức +6; Vận khí +5 ]",
+    "effects": {
+      "22": 6,
+      "27": 5
+    }
+  },
+  {
+    "id": 450,
+    "tier": 4,
+    "name": "Tuệ hải vô biên",
+    "description": "[ Học thức +6; Ngộ tính +5 ]",
+    "effects": {
+      "22": 6,
+      "28": 5
+    }
+  },
+  {
+    "id": 451,
+    "tier": 4,
+    "name": "Thánh nhan từ ái",
+    "description": "[ Nhan sắc +6; Thiện ác +5 ]",
+    "effects": {
+      "23": 6,
+      "24": 5
+    }
+  },
+  {
+    "id": 452,
+    "tier": 4,
+    "name": "Thần uy ngọc cốt",
+    "description": "[ Nhan sắc +6; Lực tay +5 ]",
+    "effects": {
+      "23": 6,
+      "25": 5
+    }
+  },
+  {
+    "id": 453,
+    "tier": 4,
+    "name": "Tiên dung trường thịnh",
+    "description": "[ Nhan sắc +6; Thể chất +5 ]",
+    "effects": {
+      "23": 6,
+      "26": 5
+    }
+  },
+  {
+    "id": 454,
+    "tier": 4,
+    "name": "Thiên hương phúc mệnh",
+    "description": "[ Nhan sắc +6; Vận khí +5 ]",
+    "effects": {
+      "23": 6,
+      "27": 5
+    }
+  },
+  {
+    "id": 455,
+    "tier": 4,
+    "name": "Minh châu giác ngộ",
+    "description": "[ Nhan sắc +6; Ngộ tính +5 ]",
+    "effects": {
+      "23": 6,
+      "28": 5
+    }
+  },
+  {
+    "id": 456,
+    "tier": 4,
+    "name": "Thần lực hộ sinh",
+    "description": "[ Thiện ác +6; Lực tay +5 ]",
+    "effects": {
+      "24": 6,
+      "25": 5
+    }
+  },
+  {
+    "id": 457,
+    "tier": 4,
+    "name": "Kim thân từ bi",
+    "description": "[ Thiện ác +6; Thể chất +5 ]",
+    "effects": {
+      "24": 6,
+      "26": 5
+    }
+  },
+  {
+    "id": 458,
+    "tier": 4,
+    "name": "Vạn phúc thiện căn",
+    "description": "[ Thiện ác +6; Vận khí +5 ]",
+    "effects": {
+      "24": 6,
+      "27": 5
+    }
+  },
+  {
+    "id": 459,
+    "tier": 4,
+    "name": "Bồ đề chính giác",
+    "description": "[ Thiện ác +6; Ngộ tính +5 ]",
+    "effects": {
+      "24": 6,
+      "28": 5
+    }
+  }
+]

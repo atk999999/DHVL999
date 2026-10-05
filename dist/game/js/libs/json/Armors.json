@@ -1,0 +1,1103 @@
+[
+  null,
+  {
+    "id": 1,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 190,
+    "name": "khăn trùm đầu",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      50,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 2,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 3,
+    "traits": [],
+    "iconIndex": 188,
+    "name": "áo vải",
+    "note": "<Max Item: 1>",
+    "params": [
+      500,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 3,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.01
+      }
+    ],
+    "iconIndex": 189,
+    "name": "giày vải",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 4,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 183,
+    "name": "mũ rộng vành",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      100,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 5,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 3,
+    "traits": [],
+    "iconIndex": 184,
+    "name": "áo tơi",
+    "note": "<Max Item: 1>",
+    "params": [
+      1000,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 6,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.02
+      }
+    ],
+    "iconIndex": 200,
+    "name": "giày da",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 7,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 197,
+    "name": "trâm gài tóc",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      150,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 8,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 3,
+    "traits": [],
+    "iconIndex": 198,
+    "name": "Hiệp khách áo",
+    "note": "<Max Item: 1>",
+    "params": [
+      1600,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 9,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.03
+      }
+    ],
+    "iconIndex": 199,
+    "name": "ủng ngắn",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 10,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 201,
+    "name": "mặt nạ",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      210,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 11,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 3,
+    "traits": [],
+    "iconIndex": 202,
+    "name": "y phục dạ hành",
+    "note": "<Max Item: 1>",
+    "params": [
+      2100,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 12,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.04
+      }
+    ],
+    "iconIndex": 203,
+    "name": "phi vũ giày",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 13,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 206,
+    "name": "mào đầu",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      330,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 14,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 3,
+    "traits": [],
+    "iconIndex": 204,
+    "name": "Thanh sương bào",
+    "note": "<Max Item: 1>",
+    "params": [
+      3200,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 15,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 205,
+    "name": "càn khôn giày",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 16,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 187,
+    "name": "trung nghĩa nón trụ",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      400,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 17,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 3,
+    "traits": [],
+    "iconIndex": 185,
+    "name": "trung nghĩa Giáp",
+    "note": "<Max Item: 1>",
+    "params": [
+      4000,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 18,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.06
+      }
+    ],
+    "iconIndex": 186,
+    "name": "trung nghĩa giày",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 19,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.8
+      }
+    ],
+    "iconIndex": 175,
+    "name": "Tiêu xa Quan",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      500,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 20,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.02
+      }
+    ],
+    "iconIndex": 191,
+    "name": "Tiêu xa áo",
+    "note": "<Max Item: 1>",
+    "params": [
+      5000,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 21,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.07
+      },
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      }
+    ],
+    "iconIndex": 207,
+    "name": "Tiêu xa giày",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 22,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "-------------------",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 23,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.01
+      }
+    ],
+    "iconIndex": 0,
+    "name": "hồi quang phản chiếu",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 24,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.02
+      }
+    ],
+    "iconIndex": 0,
+    "name": "nghỉ ngơi lấy lại sức",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 25,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 0,
+    "name": "lệ khí",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 26,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.08
+      }
+    ],
+    "iconIndex": 0,
+    "name": "nhìn rõ",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 27,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.02
+      }
+    ],
+    "iconIndex": 0,
+    "name": "bản năng phản ứng",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 28,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 0,
+    "name": "bạo quân",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 29,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.15
+      }
+    ],
+    "iconIndex": 0,
+    "name": "mắt ưng",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 30,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.02
+      }
+    ],
+    "iconIndex": 0,
+    "name": "tự lành",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 31,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 0,
+    "name": "Đan điền chi khí",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 32,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 0,
+    "name": "nhạy cảm",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 33,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "tốt thể trạng",
+    "note": "<Max Item: 1>",
+    "params": [
+      1000,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 34,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "hô hấp thông thuận",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      100,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 35,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "da dày thịt béo",
+    "note": "<Max Item: 1>",
+    "params": [
+      2000,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 36,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "khí tức hùng hậu",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      300,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 37,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      }
+    ],
+    "iconIndex": 0,
+    "name": "gân mạch hỗn loạn",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 38,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      }
+    ],
+    "iconIndex": 0,
+    "name": "bách độc bất xâm",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 39,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "iconIndex": 0,
+    "name": "Nhân gian tỉnh lại ",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 40,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 9,
+        "value": 3
+      }
+    ],
+    "iconIndex": 0,
+    "name": "cốt cách kinh kỳ",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 41,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 9,
+        "value": 2
+      }
+    ],
+    "iconIndex": 0,
+    "name": "luyện võ kỳ tài",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 42,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 9,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 0,
+    "name": "tinh thần sung mãn",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 43,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 5,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "mau lẹ",
+    "note": "<Max Item: 1>",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      20,
+      0
+    ],
+    "price": 0
+  },
+  {
+    "id": 44,
+    "atypeId": 1,
+    "description": "Máu tối đa +100.000. Mua xong tự trang bị cho nhân vật.",
+    "etypeId": 3,
+    "traits": [],
+    "iconIndex": 188,
+    "name": "Cổ Thần giáp",
+    "note": "<Max Item: 1>\n<CoThan>",
+    "params": [
+      100000,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 100
+  },
+  {
+    "id": 45,
+    "atypeId": 1,
+    "description": "Nội lực tối đa +50.000. Mua xong tự trang bị cho nhân vật.",
+    "etypeId": 4,
+    "traits": [],
+    "iconIndex": 189,
+    "name": "Cổ Thần giày",
+    "note": "<Max Item: 1>\n<CoThan>",
+    "params": [
+      0,
+      50000,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 100
+  }
+]

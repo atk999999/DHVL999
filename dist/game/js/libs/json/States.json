@@ -1,0 +1,2034 @@
+[
+  null,
+  {
+    "id": 1,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "iconIndex": 4,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 3,
+    "name": "Tử vong",
+    "note": "",
+    "overlay": 0,
+    "priority": 100,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 4,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 9,
+        "value": 0
+      }
+    ],
+    "messageType": 1
+  },
+  {
+    "id": 2,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "description": "",
+    "iconIndex": 13,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "phòng ngự",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.4
+      }
+    ],
+    "messageType": 1
+  },
+  {
+    "id": 3,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "description": "",
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "---------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "messageType": 1
+  },
+  {
+    "id": 4,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "iconIndex": 5,
+    "maxTurns": 7,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 1,
+    "overlay": 1,
+    "name": "Trúng độc",
+    "note": "",
+    "priority": 50,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": -0.15
+      }
+    ],
+    "messageType": 1
+  },
+  {
+    "id": 5,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "iconIndex": 7,
+    "maxTurns": 4,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 1,
+    "name": "trọng thương",
+    "note": "",
+    "overlay": 2,
+    "priority": 60,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": -0.03
+      },
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 0.75
+      },
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 0.25
+      },
+      {
+        "code": 23,
+        "dataId": 3,
+        "value": 0.25
+      }
+    ],
+    "messageType": 1
+  },
+  {
+    "id": 6,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "iconIndex": 9,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 1,
+    "name": "điểm huyệt",
+    "note": "",
+    "overlay": 3,
+    "priority": 65,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 4,
+    "stepsToRemove": 100,
+    "traits": [],
+    "messageType": 1
+  },
+  {
+    "id": 7,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 50,
+    "iconIndex": 8,
+    "maxTurns": 4,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 1,
+    "name": "sơ hở",
+    "note": "",
+    "overlay": 4,
+    "priority": 70,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.35
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.1
+      }
+    ],
+    "messageType": 1
+  },
+  {
+    "id": 8,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 50,
+    "iconIndex": 6,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 1,
+    "name": "mê muội",
+    "note": "",
+    "overlay": 5,
+    "priority": 75,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 4,
+    "stepsToRemove": 100,
+    "traits": [],
+    "messageType": 1
+  },
+  {
+    "id": 9,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 10
+      }
+    ],
+    "iconIndex": 12,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "né tránh",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 10,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.08
+      }
+    ],
+    "iconIndex": 221,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "linh khu tố vấn",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 11,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": -0.25
+      }
+    ],
+    "iconIndex": 17,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "tam tiếu Tiêu dao tán",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 12,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 10
+      }
+    ],
+    "iconIndex": 12,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "thủy thượng phiêu",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 13,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.04
+      }
+    ],
+    "iconIndex": 242,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "càn khôn Quy nguyên Công",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 14,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0
+      }
+    ],
+    "iconIndex": 308,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "thọ cùng trời đất Công",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 15,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 2.6
+      }
+    ],
+    "iconIndex": 41,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "La Hán phục ma Công",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 16,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.12
+      }
+    ],
+    "iconIndex": 306,
+    "maxTurns": 5,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 5,
+    "motion": 0,
+    "name": "minh ngọc Công",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 17,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      }
+    ],
+    "iconIndex": 257,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "tiểu vô tướng công",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 18,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      }
+    ],
+    "iconIndex": 230,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "Thái cực Thần Công",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 19,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 3.2
+      }
+    ],
+    "iconIndex": 56,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "tiên thiên khí công",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 20,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 1.8
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 220,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "tiêu dao du",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 21,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.22
+      }
+    ],
+    "iconIndex": 272,
+    "maxTurns": 4,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 4,
+    "motion": 0,
+    "name": "Nga Mi cửu dương công",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 22,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": -0.35
+      }
+    ],
+    "iconIndex": 62,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "hấp tinh Đại Pháp",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 23,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": -0.4
+      }
+    ],
+    "iconIndex": 76,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "hóa công Đại Pháp",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 24,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 3.2
+      }
+    ],
+    "iconIndex": 74,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "Thần hành trăm biến",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 25,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "iconIndex": 55,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "khô khốc thiền Công",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 26,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 10
+      }
+    ],
+    "iconIndex": 79,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "Càn Khôn Đại Na Di",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 27,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": -0.18
+      }
+    ],
+    "iconIndex": 39,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "Bắc Minh Thần Công",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 28,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 10
+      }
+    ],
+    "iconIndex": 12,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "lăng ba vi bộ",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 29,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 10
+      }
+    ],
+    "iconIndex": 65,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "đẩu chuyển tinh di",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 30,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      }
+    ],
+    "iconIndex": 242,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "Cửu âm chân kinh",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 31,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "iconIndex": 219,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "Thanh Tâm phổ Thiện Chú",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 32,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 68,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "Bách Lãm Quần Thư",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 33,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "description": "",
+    "iconIndex": 13,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "phòng ngự",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.35
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.2
+      }
+    ],
+    "messageType": 1
+  },
+  {
+    "id": 34,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 6,
+        "value": 10
+      }
+    ],
+    "iconIndex": 32,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "di hoa tiếp ngọc",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 35,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.2
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 10
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 10
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 10
+      },
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 10
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 10
+      }
+    ],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "thân chịu trọng thương",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 36,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "description": "",
+    "iconIndex": 130,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "giải độc cao",
+    "note": "",
+    "overlay": 0,
+    "priority": 90,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      }
+    ],
+    "messageType": 1
+  },
+  {
+    "id": 37,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "description": "",
+    "iconIndex": 131,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "cuồng Thi tán",
+    "note": "",
+    "overlay": 0,
+    "priority": 90,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 6,
+        "value": 1
+      }
+    ],
+    "messageType": 1
+  },
+  {
+    "id": 38,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "description": "",
+    "iconIndex": 134,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "cứu Tim hoàn",
+    "note": "",
+    "overlay": 0,
+    "priority": 90,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      }
+    ],
+    "messageType": 1
+  },
+  {
+    "id": 39,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "description": "",
+    "iconIndex": 136,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "nâng cao tinh thần Đan",
+    "note": "",
+    "overlay": 0,
+    "priority": 90,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 7,
+        "value": 1
+      }
+    ],
+    "messageType": 1
+  },
+  {
+    "id": 40,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "description": "",
+    "iconIndex": 127,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "Thanh tâm đan",
+    "note": "",
+    "overlay": 0,
+    "priority": 90,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "messageType": 1
+  },
+  {
+    "id": 41,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 9.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 9.5
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.95
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 10
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 10
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 10
+      },
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 10
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 10
+      }
+    ],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "Kinh mạch đứt đoạn",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 42,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.02
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.02
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.01
+      }
+    ],
+    "iconIndex": 308,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "hỗn nguyên công",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 43,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.7
+      }
+    ],
+    "iconIndex": 39,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "Hỗn Nguyên khí công",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 44,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 0.05
+      },
+      {
+        "code": 23,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 289,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "ngưng huyết Thần trảo",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 45,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.08
+      }
+    ],
+    "iconIndex": 60,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "Hồi Hồn tán",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 46,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.6
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.6
+      },
+      {
+        "code": 21,
+        "dataId": 0,
+        "value": 1.6
+      },
+      {
+        "code": 21,
+        "dataId": 1,
+        "value": 1.6
+      },
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 1.6
+      },
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 1.6
+      }
+    ],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "Tranh đoạt  Chưởng môn",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 47,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.9
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": -0.9
+      }
+    ],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "hai mắt mù",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 48,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.75
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.75
+      },
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 3
+      }
+    ],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "Phẫn nộ ",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 49,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 3.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 4.5
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.15
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.9
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": -0.9
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 10
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 10
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 10
+      },
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 10
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 10
+      }
+    ],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "---------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 50,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": -0.3
+      }
+    ],
+    "iconIndex": 69,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "kim xà kiếm pháp",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 51,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 10
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.04
+      }
+    ],
+    "iconIndex": 298,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "bách hoa sai",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 52,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": -0.3
+      }
+    ],
+    "iconIndex": 64,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "con cóc Độc",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 53,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 225,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "Tùng Phong kiếm pháp",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 54,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 45,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "thiên cương Bát quái chưởng",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 55,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.6
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.6
+      }
+    ],
+    "iconIndex": 60,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "Dược vương  Thần thiên",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  },
+  {
+    "id": 56,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 1.8
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.7
+      },
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 52,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 50,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 23,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      }
+    ],
+    "iconIndex": 55,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "Dịch Cân kinh",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "messageType": 1
+  }
+]

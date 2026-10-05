@@ -1,0 +1,1402 @@
+[
+  null,
+  {
+    "id": 1,
+    "battlerName": "",
+    "characterIndex": 2,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 80,
+    "name": "Khởi tạo ",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 2,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 2,
+    "equips": [
+      0
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [
+      {
+        "code": 51,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 52,
+        "dataId": 1,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 80,
+    "name": "ta",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 3,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 1,
+    "name": "từ mấu chốtA",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 4,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 1,
+    "name": "từ mấu chốtB",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 5,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 1,
+    "name": "từ mấu chốtC",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 6,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 1,
+    "name": "từ mấu chốtD",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 7,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 1,
+    "name": "sửa đổi ảnh chân dung",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 8,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 1,
+    "name": "sư phó Danh tự",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 9,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 1,
+    "name": "Tên Môn Phái",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 10,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 1,
+    "name": "--------------------",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 11,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 35,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 12,
+    "maxLevel": 12,
+    "name": "ChungLinh",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 12,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 34,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 15,
+    "maxLevel": 15,
+    "name": "LamPhượngHoàng",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 13,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 36,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 18,
+    "maxLevel": 18,
+    "name": "MộcUyểnThanh",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 14,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 69,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 20,
+    "maxLevel": 20,
+    "name": "NhạcLinhSan",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 15,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 37,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 24,
+    "maxLevel": 24,
+    "name": "NinhTrungTắc",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 16,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 64,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 28,
+    "maxLevel": 28,
+    "name": "KhaTrấnÁc",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 17,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 1,
+    "name": "--------------------",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 18,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 60,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 32,
+    "maxLevel": 32,
+    "name": "ÂnLy",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 19,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 72,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 34,
+    "maxLevel": 34,
+    "name": "VươngNgữYên",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 20,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 55,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 35,
+    "maxLevel": 35,
+    "name": "Quách Phù",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 21,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 70,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 37,
+    "maxLevel": 37,
+    "name": "CừuThiênXích",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 22,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 62,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 39,
+    "maxLevel": 39,
+    "name": "NhâmDoanhDoanh",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 23,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 68,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 41,
+    "maxLevel": 41,
+    "name": "ĐoạnChínhThuần",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 24,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 67,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 43,
+    "maxLevel": 43,
+    "name": "CôngTônChỉ",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 25,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 75,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 46,
+    "maxLevel": 46,
+    "name": "KhâuXửCơ",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 26,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 56,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 50,
+    "maxLevel": 50,
+    "name": "TạTốn",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 27,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 1,
+    "name": "--------------------",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 28,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 74,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 52,
+    "maxLevel": 52,
+    "name": "MaiSiêuPhong",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 29,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 76,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 54,
+    "maxLevel": 54,
+    "name": "HoàngDung",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 30,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 54,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 57,
+    "maxLevel": 57,
+    "name": "LýMạcSầu",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 31,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 38,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 58,
+    "maxLevel": 58,
+    "name": "MộDungPhục",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 32,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 39,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 60,
+    "maxLevel": 60,
+    "name": "PhươngChứngĐạiSư",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 33,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 78,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 61,
+    "maxLevel": 61,
+    "name": "ĐoànDuyênKhánh",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 34,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 41,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 62,
+    "maxLevel": 62,
+    "name": "CưuMaTrí",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 35,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 79,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 64,
+    "maxLevel": 64,
+    "name": "LâmBìnhChi",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 36,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 57,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 68,
+    "maxLevel": 68,
+    "name": "PhongThanhDương",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 37,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 1,
+    "name": "--------------------",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 38,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 48,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 70,
+    "maxLevel": 70,
+    "name": "TiểuLongNữ",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 39,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 45,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 70,
+    "maxLevel": 70,
+    "name": "ChuBáThông",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 40,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 65,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 71,
+    "maxLevel": 71,
+    "name": "TrươngTamPhong",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 41,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 71,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 71,
+    "maxLevel": 71,
+    "name": "ThiênSơnĐồngMỗ",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 42,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 46,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 72,
+    "maxLevel": 72,
+    "name": "ÂuDươngPhong",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 43,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 49,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 72,
+    "maxLevel": 72,
+    "name": "HoàngDượcSư",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 44,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 44,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 73,
+    "maxLevel": 73,
+    "name": "HồngThấtCông",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 45,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 47,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 73,
+    "maxLevel": 73,
+    "name": "NhấtĐăngĐạiSư",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 46,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 50,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 75,
+    "maxLevel": 75,
+    "name": "VươngTrọngDương",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 47,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 58,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 76,
+    "maxLevel": 76,
+    "name": "NhậmNgãHành",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 48,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 80,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 77,
+    "maxLevel": 77,
+    "name": "ChuChỉNhược",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 49,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 66,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 78,
+    "maxLevel": 78,
+    "name": "DươngĐỉnhThiên",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 50,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 1,
+    "name": "--------------------",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 51,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 42,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 80,
+    "maxLevel": 80,
+    "name": "TiêuPhong",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 52,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 43,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 80,
+    "maxLevel": 80,
+    "name": "HưTrúc",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 53,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 63,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 80,
+    "maxLevel": 80,
+    "name": "ĐoànDự",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 54,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 51,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 80,
+    "maxLevel": 80,
+    "name": "QuáchTĩnh",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 55,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 52,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 80,
+    "maxLevel": 80,
+    "name": "DươngQuá",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 56,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 73,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 80,
+    "maxLevel": 80,
+    "name": "TrươngVôKỵ",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 57,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 33,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 80,
+    "maxLevel": 80,
+    "name": "ViênThừaChí",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 58,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 59,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 80,
+    "maxLevel": 80,
+    "name": "LệnhHồXung",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 59,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 53,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 80,
+    "maxLevel": 80,
+    "name": "KimLuânPhápVương ",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 60,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 40,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 80,
+    "maxLevel": 80,
+    "name": "ĐinhXuânThu",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 61,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 77,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 80,
+    "maxLevel": 80,
+    "name": "ĐôngPhươngBấtBại",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 62,
+    "battlerName": "",
+    "characterIndex": 7,
+    "characterName": "",
+    "classId": 61,
+    "equips": [
+      2
+    ],
+    "faceIndex": 7,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 80,
+    "maxLevel": 80,
+    "name": "ĐộcCôCầuBại",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 63,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 1,
+    "name": "--------------------",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 64,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "ngũ tuyệt xưng hào",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 65,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Môn phái biệt xưng",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 66,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "chức vị1",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 67,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "chức vị2",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 68,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Môn phái Trưởng lão",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 69,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Chưởng môn",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 70,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  }
+]

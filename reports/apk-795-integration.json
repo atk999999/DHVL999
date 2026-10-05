@@ -1,0 +1,27 @@
+{
+  "apk_sha256": "5c8bf1c6f5272a83008f08529e6b36a136adb3bb740827bc53da5034654fe2f1",
+  "apk_declared_version": 795,
+  "web_content_base_version": 781,
+  "integration_status": "partial_assets_only",
+  "imported_assets": [
+    {
+      "path": "img/pictures/WD_4.webp",
+      "sha256": "007f34cec52bf2ef7c81e7c95d9483a78a508e98727b7218bad57c55a997cfb9",
+      "role": "Character artwork; no NPC or event activated without original game data"
+    }
+  ],
+  "missing_runtime_modules": [
+    "Xr_Core",
+    "Xr_Game_Comeb",
+    "Xr_Tool_Comeb",
+    "Xr_Other_Comeb"
+  ],
+  "preserved": [
+    "Vietnamese localization",
+    "300 talents",
+    "999 starting ingots",
+    "custom loading screen",
+    "player damage repair",
+    "existing save compatibility"
+  ]
+}

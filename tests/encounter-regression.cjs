@@ -1,0 +1,40 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const c=vm.createContext({console});vm.runInContext(`
+var window=this,age=12,map=3,battle=false,alive=true,gold=0,skills=[];
+var $gameSystem={},$gameVariables={_data:{1:12,26:5,22:5},value:function(i){return this._data[i]||0;},setValue:function(i,v){this._data[i]=v;}};
+var actor={actorId:function(){return 2;},isAlive:function(){return alive;},learnSkill:function(i){if(skills.indexOf(i)<0)skills.push(i);},forgetSkill:function(i){skills=skills.filter(function(k){return k!==i;});}};
+var $gameParty={members:function(){return [actor];},inBattle:function(){return battle;},gainGold:function(n){gold+=n;}};
+var $gameMap={mapId:function(){return map;}};var $gameActors={actor:function(){return actor;}};
+var OfflineGame={beginRun:function(){}};function Scene_Base(){};function Scene_Map(){};
+`,c);
+vm.runInContext(fs.readFileSync(__dirname+'/../dist/game/web-encounter.js','utf8'),c);
+const run=s=>vm.runInContext(s,c);
+assert.equal(run('$gameVariables.setValue(1,11);WebEncounter.choose(0)'),false);
+assert.equal(run('$gameVariables.setValue(1,12);WebEncounter.choose(0)'),true);
+assert.equal(run('WebEncounter.choose(0)'),false); // Next chapter locked until 14.
+assert.equal(run('$gameVariables.value(24)'),2);
+assert.equal(run('$gameVariables.setValue(1,14);$gameVariables.setValue(26,4);WebEncounter.choose(0)'),false);
+assert.equal(run('WebEncounter.choose(1)'),true);
+// A JSON save/load preserves progress and does not award the prior chapter again.
+run('$gameSystem=JSON.parse(JSON.stringify($gameSystem));');
+assert.equal(run('WebEncounter.state().stage'),2);
+assert.equal(run('$gameVariables.setValue(1,16);WebEncounter.choose(0)'),true);
+assert.equal(run('$gameVariables.setValue(1,18);WebEncounter.choose(0)'),true);
+assert.equal(run('skills.includes(450)'),true);
+assert.equal(run('$gameVariables.value(28)'),4);
+assert.equal(run('WebEncounter.choose(0)'),false);
+assert.equal(run('$gameVariables.value(28)'),4);
+run('OfflineGame.beginRun()');
+assert.equal(run('WebEncounter.state().stage'),0);
+assert.equal(run('skills.includes(450)'),false);
+run('map=5');assert.equal(run('WebEncounter.choose(0)'),false);
+run('map=3;battle=true');assert.equal(run('WebEncounter.choose(0)'),false);
+run('battle=false;alive=false');assert.equal(run('WebEncounter.choose(0)'),false);
+run('alive=true;WebEncounter.choose(1);WebEncounter.choose(1);WebEncounter.choose(2);WebEncounter.choose(0)');
+assert.equal(run('WebEncounter.state().done'),true);
+assert.equal(run('skills.includes(450)'),false);
+assert.equal(run('gold'),300);
+assert.equal(run('WebEncounter.state().log.length'),4);
+const db=JSON.parse(fs.readFileSync(__dirname+'/../dist/game/js/libs/json/Skills.json'));
+assert.equal(db[450].id,450);assert.equal(db[450].successRate,100);assert.equal(db[450].stypeId,db[40].stypeId);
+console.log('PASS: age/stat gates, both endings, real rewards, save/load, single grants, new-life reset, combat/menu/dead guards and skill registration.');
