@@ -78,4 +78,40 @@ assert.ok(run('choices[1]').includes('ATK'), 'Choice description includes ATK bu
 // 6. Test Font Fallback Integration
 assert.ok(run('Window_Base.prototype.standardFontFace()').includes('system-ui'), 'Font face has system-ui fallback for crisp Vietnamese text');
 
-console.log('PASS: Talent buffs for Tier 1..4 (HP, MP, ATK), Vietnamese font fallback, and compact UI formatting verified.');
+// 7. Test CE 50 Talent Quality Drop Rates (Option A: 20% Lục, 30% Lam, 30% Tím, 20% Vàng)
+const ce50 = JSON.parse(fs.readFileSync(root + 'js/libs/json/CommonEvents.json', 'utf8'))[50];
+const thresholds = ce50.list.filter(cmd => cmd.code === 111 && cmd.parameters[1] === 8).map(cmd => cmd.parameters[3]);
+assert.deepEqual(thresholds, [20, 50, 80], 'CE 50 thresholds must match Option A: [20, 50, 80]');
+
+// 8. Test Android Chrome Canvas getImageData float/NaN protection
+run(`
+var mockContext = {
+  createImageData: (w, h) => ({ width: w, height: h, data: new Uint8ClampedArray(w * h * 4) }),
+  getImageData: function(sx, sy, sw, sh) {
+    if (typeof sx !== 'number' || Math.floor(sx) !== sx) throw new TypeError("Value is not of type 'long'");
+    if (typeof sy !== 'number' || Math.floor(sy) !== sy) throw new TypeError("Value is not of type 'long'");
+    if (typeof sw !== 'number' || Math.floor(sw) !== sw) throw new TypeError("Value is not of type 'long'");
+    if (typeof sh !== 'number' || Math.floor(sh) !== sh) throw new TypeError("Value is not of type 'long'");
+    return { width: sw, height: sh, data: new Uint8ClampedArray(sw * sh * 4) };
+  }
+};
+var CanvasRenderingContext2D = function() {};
+CanvasRenderingContext2D.prototype = mockContext;
+var document = {
+  getElementById: () => ({ setAttribute: () => {}, style: {} }),
+  addEventListener: () => {}
+};
+var XMLHttpRequest = function() {};
+XMLHttpRequest.prototype.send = function() {};
+var HTMLImageElement = function() {};
+HTMLImageElement.prototype = {};
+window.addEventListener = () => {};
+`);
+// Load safe wrapper logic
+const loadingJs = fs.readFileSync(root + 'web-loading.js', 'utf8');
+vm.runInContext(loadingJs, c);
+// Verify calling with float, NaN, undefined, negative values works safely
+assert.doesNotThrow(() => run('mockContext.getImageData(12.375, 45.89, 100.5, 200.75)'), 'Float coordinates handled safely');
+assert.doesNotThrow(() => run('mockContext.getImageData(NaN, undefined, 0, 0)'), 'NaN / zero dimensions handled safely');
+
+console.log('PASS: Talent buffs for Tier 1..4 (HP, MP, ATK), Vietnamese font fallback, Option A drop rates, and Android Canvas protection verified.');

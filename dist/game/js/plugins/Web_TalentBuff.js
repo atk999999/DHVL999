@@ -1,19 +1,35 @@
 /*:
- * @plugindesc [v1.1] Tăng cường chỉ số Thiên Phú (MHP, MMP, ATK) & Tối ưu Font chữ tiếng Việt
+ * @plugindesc [v1.2] Tăng cường chỉ số Thiên Phú (MHP, MMP, ATK), Tối ưu Font tiếng Việt & Fix lỗi Canvas trên Android
  * @author AI Studio
  * @help
  * Plugin tự động buff thêm Máu (HP), Nội lực (MP) và Công kích (ATK) dựa theo phẩm cấp
  * và thuộc tính của Thiên Phú được chọn khi khởi đầu đời mới.
- * Đồng thời tối ưu hiển thị font chữ tiếng Việt sắc nét và căn chỉnh giao diện gọn gàng.
+ * Đồng thời tối ưu hiển thị font chữ tiếng Việt sắc nét, căn chỉnh giao diện gọn gàng,
+ * và bảo vệ CanvasRenderingContext2D.getImageData khỏi lỗi trên Android Chrome Beta.
  */
 (function () {
   'use strict';
+
+  // Bảo vệ CanvasRenderingContext2D.prototype.getImageData trên Android Chrome Beta
+  if (typeof CanvasRenderingContext2D !== 'undefined' && CanvasRenderingContext2D.prototype.getImageData) {
+    var _native_getImageData = CanvasRenderingContext2D.prototype.getImageData;
+    CanvasRenderingContext2D.prototype.getImageData = function (sx, sy, sw, sh) {
+      var x = Math.round(Number(sx)) || 0;
+      var y = Math.round(Number(sy)) || 0;
+      var w = Math.round(Number(sw)) || 0;
+      var h = Math.round(Number(sh)) || 0;
+      if (w <= 0 || h <= 0) {
+        return this.createImageData(Math.max(1, w), Math.max(1, h));
+      }
+      return _native_getImageData.call(this, x, y, w, h);
+    };
+  }
 
   var TIER_BONUS = {
     1: { hp: 3000, mp: 1000, atk: 500, def: 50, mat: 50, agi: 20 },   // Phẩm 1: Lục
     2: { hp: 8000, mp: 2500, atk: 1500, def: 150, mat: 150, agi: 50 }, // Phẩm 2: Lam
     3: { hp: 20000, mp: 6000, atk: 4000, def: 400, mat: 400, agi: 100 }, // Phẩm 3: Tử
-    4: { hp: 50000, mp: 15000, atk: 10000, def: 1000, mat: 1000, agi: 250 } // Phẩm 4: Hồng / Cam
+    4: { hp: 50000, mp: 15000, atk: 10000, def: 1000, mat: 1000, agi: 250 } // Phẩm 4: Hồng / Cam / Vàng
   };
 
   function formatStat(n) {
